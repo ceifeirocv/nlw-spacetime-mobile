@@ -8,6 +8,9 @@
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
+  "keywords": ["Nlw", "rocketseat", "expo", "react-native"],
+  "author": "Jair Oliveira",
+  "license": "MIT",
   "dependencies": {
     "@expo-google-fonts/bai-jamjuree": "^0.2.3",
     "@expo-google-fonts/roboto": "^0.2.3",
